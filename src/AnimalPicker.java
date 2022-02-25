@@ -15,6 +15,9 @@ public class AnimalPicker {
 		else if (response.equalsIgnoreCase("dog")) {
 			System.out.println("Dog art here");
 		}
+		else {
+			System.out.println("Error: Invaild option");
+		}
 		
 	}
 
