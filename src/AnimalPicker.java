@@ -12,11 +12,11 @@ public class AnimalPicker {
 			String response = userInput.nextLine();
 		
 			if (response.equalsIgnoreCase("cat")) {
-				System.out.println("Cat art here");
+				System.out.println(" _._     _,-\'\"\"`-._\n(,-.`._,\'(       |\\`-/|\n    `-.-\' \\ )-`( , o o)\n          `-    \\`_`\"\'-");
 				selected = true;
 			}
 			else if (response.equalsIgnoreCase("dog")) {
-				System.out.println("Dog art here");
+				System.out.println("  __      _\no\'\')}____//\n `_/      )\n (_(_/-(_/");
 				selected = true;
 			}
 			else {
